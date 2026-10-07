@@ -1,0 +1,15 @@
+[package]
+name = "acquisitionuniverse"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alpha Quantum <info@alpha-quantum.com>"]
+description = "Toolkit for acquisition target screening in Rust: thesis briefs, a weighted composite score that zeroes out group-owned targets, ranking and signal coverage"
+license = "MIT"
+homepage = "https://www.acquisitionuniverse.com"
+repository = "https://github.com/explainableaixai/acquisitionuniverse-rust"
+documentation = "https://www.acquisitionuniverse.com/method.php"
+readme = "README.md"
+keywords = ["m-and-a", "acquisition", "private-equity", "deal-sourcing", "screening"]
+categories = ["finance", "data-structures"]
+
+[dependencies]
