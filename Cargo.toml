@@ -1,6 +1,6 @@
 [package]
 name = "acquisitionuniverse"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Alpha Quantum <info@alpha-quantum.com>"]
 description = "Toolkit for acquisition target screening in Rust: thesis briefs, a weighted composite score that zeroes out group-owned targets, ranking and signal coverage"
